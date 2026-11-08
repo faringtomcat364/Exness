@@ -195,3 +195,6 @@ This repository serves as the official landing page for Exness. The software is 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Exness today!**
+
+---
+**Last updated:** 2026-11-08 19:14:55 UTC
