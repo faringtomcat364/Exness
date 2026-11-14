@@ -197,4 +197,4 @@ This repository serves as the official landing page for Exness. The software is 
 **Get the most recent version of Exness today!**
 
 ---
-**Last updated:** 2026-11-14 08:19:48 UTC
+**Last updated:** 2026-11-14 15:25:18 UTC
